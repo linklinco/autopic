@@ -1,0 +1,8 @@
+# autopic
+
+
+
+```
+python autopic.md
+```
+
